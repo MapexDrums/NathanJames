@@ -48,7 +48,7 @@ linkedin_username: NathanJames
 # about_title: About Me
 about_profile_image: images/profileimage- Nathan.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm an Agile Delivery Manager specialising in software devlopment within the Public Sector. I manage a <mark>Scrum</mark> team that develop software and web applications. I manage the team in a fast paced environment working using different technologies, and have experience with Microservice and Monolith arcitechure.
+  I'm an Agile Delivery Manager specialising in software devlopment within the Public Sector. I manage a digital <mark>Scrum</mark> team that develop software and web applications. The scrum operate in a fast paced environment, using different technologies, and have experience with both Microservice and Monolithic arcitechure.
 
   I am most skilled in: <mark>Agile</mark> & <mark>Lean</mark> principals, as well as <mark>coaching</mark> a digital scrum on continuous improvement and delivery.
 
@@ -108,8 +108,7 @@ content:
       - Walking my dog
       - Reading up into next technologies (at the moment blockchain technology)
 
-      Look at this cool image  
-      ![Ski](/modern-resume-theme/images/Ski.jpg "Ski")
+      ![Ski](/NathanJames/images/Ski.jpg "Ski")
 
 # Footer
 footer_show_references: true
